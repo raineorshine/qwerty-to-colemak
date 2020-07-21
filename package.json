@@ -1,0 +1,22 @@
+{
+  "name": "qwerty-to-colemak",
+  "description": "Look up the COLEMAK key for a given QWERTY keyboard key press (or vice versa).",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raine@cybersemics.org",
+    "url": "https://github.com/raineorshine"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">10"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "ava --verbose",
+    "watch": "npm test -- --watch"
+  },
+  "devDependencies": {
+    "ava": "^3.10.1"
+  }
+}
