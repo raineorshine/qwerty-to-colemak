@@ -1,7 +1,7 @@
 {
   "name": "qwerty-to-colemak",
   "description": "Look up the COLEMAK key for a given QWERTY keyboard key press (or vice versa).",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Raine Revere",
     "email": "raine@cybersemics.org",
